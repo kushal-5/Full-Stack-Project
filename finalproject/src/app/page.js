@@ -19,6 +19,13 @@ const page = () => {
         <option value="2">Option 2</option>
         <option value="3">Option 3</option>
       </select>
+      <footer>
+        <p>Copyright 2025</p>
+        <p>All rights reserved</p>
+        <p>Contact us</p>
+        <p>Follow us</p>
+        <p>Follow us</p>    
+      </footer>
     </div>
     
 
