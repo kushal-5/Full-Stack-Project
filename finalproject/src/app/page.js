@@ -13,7 +13,9 @@ const Page = () => {
             <li className="hover:text-gray-400 cursor-pointer">Testimonials</li>
             <li className="hover:text-gray-400 cursor-pointer">Login</li>
             <li className="hover:text-gray-400 cursor-pointer">Register</li>
+            
           </ul>
+
         </nav>
       </header>
 
@@ -135,9 +137,11 @@ const Page = () => {
           </a>
         </div>
         <p>&copy; 2025 DIGI. All rights reserved.</p>
+
       </footer>
     </div>
   );
 };
 
 export default Page;
+// push working or not check
